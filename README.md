@@ -33,6 +33,17 @@
     <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 
+<hr>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/CUBILLOSCRISTIAN">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CUBILLOSCRISTIAN&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CUBILLOSCRISTIAN&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 
 
 
