@@ -11,15 +11,15 @@
 
 ```
 📱  Soy Cristian Cubillos, un desarrollador móvil y
-backend autodidacta.
+    backend autodidacta.
 🚀 Me enfoco en crear aplicaciones móviles y backend
-robustos y escalables.
+    robustos y escalables.
 🔨 Actualmente, trabajos personales en proyectos de
-desarrollo móvil y backend.
+    desarrollo móvil y backend.
 💻 Domino Dart, JavaScript y herramientas populares
-para desarrollo móvil y backend.
+    para desarrollo móvil y backend.
 📱 Interesado en aplicaciones móviles con experiencia
-fluida y sólido backend para seguridad y rendimiento.
+    fluida y sólido backend para seguridad y rendimiento.
 ```
 <hr>
 
