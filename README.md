@@ -14,7 +14,7 @@
     backend autodidacta.
 🚀 Me enfoco en crear aplicaciones móviles y backend
     robustos y escalables.
-🔨 Actualmente, trabajos personales en proyectos de
+🔨 Actualmente, trabajo en proyectos personales de
     desarrollo móvil y backend.
 💻 Domino Dart, JavaScript y herramientas populares
     para desarrollo móvil y backend.
