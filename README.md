@@ -27,10 +27,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter&perline=1" />
-    <img src="https://skillicons.dev/icons?i=dart,js&perline=2" />
-    <img src="https://skillicons.dev/icons?i=git,github,django&perline=3" />
-    <img src="https://skillicons.dev/icons?i=nodeja,fireabse,mongodb,postman&perline=4" />
+    <img src="https://skillicons.dev/icons?i=flutter&perline=1" /><br>
+    <img src="https://skillicons.dev/icons?i=dart,js&perline=2" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,django&perline=3" /><br>
+    <img src="https://skillicons.dev/icons?i=nodeja,fireabse,mongodb,postman&perline=4" /><br>
   </a>
 </p>
 
